@@ -14,8 +14,8 @@ const char* password = "alliswell"; //Your Network Password
 
 WiFiClient client;
  
-unsigned long myChannelNumber = 944591; //Your Channel Number (Without Brackets)
-const char * myWriteAPIKey = "4WJTHRZRF5Q6PIS8"; //Your Write API Key
+unsigned long myChannelNumber = ******; //Your Channel Number (Without Brackets)
+const char * myWriteAPIKey = "************"; //Your Write API Key
  
 void setup()
 {
